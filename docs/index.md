@@ -1,5 +1,5 @@
 # MongoDB Hızlı Eğitim
-[Operatörler](op.md) [Yedek-Restore](backup.md)
+[Operatörler](op.md) | [Yedek-Restore](backup.md) | [Notlar](not.md)
 ## _MongoDb nedir?_
 <head>
 
