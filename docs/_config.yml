@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+title: MongoDB Eğitim
+description: MongoDB nedir | MongoDB notlar
+url: https://erelbi.github.io/mongodb-test/
+author: ErgünElvan Bilsel
+plugins:
+  - jekyll-seo-tag
+google_analytics: G-9DYT82Q0GB
