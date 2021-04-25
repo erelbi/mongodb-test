@@ -1,5 +1,6 @@
 # MongoDB Hızlı Eğitim
 ## _MongoDb nedir?_
+<head>
 <meta name="google-site-verification" content="VyUGuNXMkHdI3DPglQgRg2-rD23heYAvi-WjpT1QZP8" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L17LQ14YC"></script>
@@ -10,6 +11,7 @@
 
   gtag('config', 'G-5L17LQ14YC');
 </script>
+</head>
 
 
 MongoDB; MongoDB Inc. tarafından ölçeklenebilir, doküman tabanlı, C++ ile geliştirilmiş açık kaynak, NoSQL veritabanı uygulamasıdır. 
