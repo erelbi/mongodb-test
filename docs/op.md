@@ -62,4 +62,4 @@ $or operatörü, iki veya daha fazla sorgudan oluşan bir dizi üzerinde mantık
 ```
 db.test.find( { $or: [ { miktar: { $lt: 20 } }, { fiyat: 10 } ] } )
 ```
-Bu sorgu, test collection'da ki miktar alanı değerinin 20'den küçük veya fiyat alanı değerinin 10'a eşit olduğu tüm belgeleri seçecektir.
+Bu sorgu, test collection'da ki miktar alanı değerinin 20'den küçük veya fiyat alanı değerinin 10'a eşit olduğu tüm documentleri seçecektir.
