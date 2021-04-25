@@ -1,5 +1,5 @@
 # MongoDB Hızlı Eğitim
-[Operatörler](op.md)
+# Operatörler(op.md)
 ## _MongoDb nedir?_
 <head>
 
