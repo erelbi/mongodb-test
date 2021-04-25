@@ -3,14 +3,37 @@
 
 
 MongoDB; MongoDB Inc. tarafından ölçeklenebilir, doküman tabanlı, C++ ile geliştirilmiş açık kaynak, NoSQL veritabanı uygulamasıdır. 
-|RDBMS|MongoDB|
-|-----|--------|
-|Database|Database|
-|Table|Collection|
-|Tuple/Row|Document|
-|column|Field|
-|Table Join|Embedded Documents|
-|Primary Key|Primary Key (Default key _id provided by MongoDB itself)|
+
+<table class="nice">
+	<th>RDBMS</th>
+	<th>MongoDB</th>
+	<tr>
+		<td>Database</td>
+		<td>Database</td>
+	</tr>
+	<tr>
+		<td>Table</td>
+		<td>Collection</td>
+	</tr>
+	<tr>
+		<td>Tuple/Row</td>
+		<td>Document</td>
+	</tr>
+	<tr>
+		<td>column</td>
+		<td>Field</td>
+	</tr>
+        <tr>
+                <td>Table Join</td>
+	        <td>Embedded Documents</td>
+        </tr>
+        <tr>
+                <td>Primary Key</td>
+                <td>Primary Key (Default key _id provided by MongoDB itself)</td>
+        </tr>
+	
+</table>
+
 
 
 - Mongodb Kurulumu
