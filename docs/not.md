@@ -46,6 +46,6 @@ Bu şekilde gözükse bile bağlantı hatası alabilirsiniz. Test için ufw güv
  ufw allow from xxx.xxx.xxx.0/24 to any port 27017
  ```
  Güvenlik duvarı kurun ve telnet bağlantısı çekin bağlantı sağlandı ise tekrar deneyin.
- -----------------------------------------------------------------------------------------
+
 
 
